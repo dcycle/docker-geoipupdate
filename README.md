@@ -20,6 +20,8 @@ Create an account on Maxmind, and create a new license key in the "My license ke
       -v $(pwd)/latest:/latest \
       dcycle/geoipupdate:1
 
+If all went well, your databases will be placed in the ./latest directory.
+
 See [this project on the Docker Hub](https://hub.docker.com/r/dcycle/geoipupdate/).
 
 More resources
