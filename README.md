@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/dcycle/docker-geoipupdate.svg?style=svg)](https://circleci.com/gh/dcycle/docker-geoipupdate)
+[![GitHub Actions](https://github.com/dcycle/docker-geoipupdate/actions/workflows/config.yml/badge.svg)](https://github.com/dcycle/docker-geoipupdate/actions/workflows/config.yml)
+
 
 Gets the latest version of GEO IP database with [geoipupdate](https://github.com/maxmind/geoipupdate).
 
