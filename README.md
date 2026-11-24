@@ -1,4 +1,4 @@
-[![GitHub Actions](https://github.com/dcycle/docker-jenkins/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
+[![GitHub Actions](https://github.com/dcycle/docker-geoipupdate/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
 
 
 Gets the latest version of GEO IP database with [geoipupdate](https://github.com/maxmind/geoipupdate).
